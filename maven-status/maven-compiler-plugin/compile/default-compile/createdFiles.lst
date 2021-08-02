@@ -1,0 +1,5 @@
+com\example\Practica\Servicio\ClienteServicio.class
+com\example\Practica\Control\ClienteControlador.class
+com\example\Practica\Practica2Application.class
+com\example\Practica\Repositorio\RepositorioCliente.class
+com\example\Practica\Modelo\Cliente.class
